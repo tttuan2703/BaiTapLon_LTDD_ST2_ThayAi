@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b0Fs4TSoxzTP6BcawoolmsX2VYiO6TgWPCH9Gi8xD2H8R4eEjTS2swQiJxuCLIFybIxRmSWhBhF07UtcyxEnlQ==",
+  "dgSpecHash": "0yttXBhhFXFl8+4skw5gg3ggTEg6b5/6JdxKmg/ByxN2n7oDAVMUzk78ypKRHDZzMaEevQS1kn8isuO75wcRzQ==",
   "success": true,
-  "projectFilePath": "D:\\Lap trinh di dong\\1_BaiTapLon\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj",
+  "projectFilePath": "C:\\Users\\TaiThanhTuan\\BaiTapLon_LTDD_ST2_ThayAi\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TaiThanhTuan\\.nuget\\packages\\devexpress.data\\19.2.6-pre-20006\\devexpress.data.19.2.6-pre-20006.nupkg.sha512",
     "C:\\Users\\TaiThanhTuan\\.nuget\\packages\\devexpress.xpo\\19.2.6-pre-20006\\devexpress.xpo.19.2.6-pre-20006.nupkg.sha512",

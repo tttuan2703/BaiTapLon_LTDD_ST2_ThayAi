@@ -26,7 +26,7 @@ namespace AspNetCore_WebQuanLyQuanCafe.Controllers
         /// <param name="tenTaiKhoan">The ten tai khoan.</param>
         /// <param name="matKhau">The mat khau.</param>
         /// <returns><br/></returns>
-        [HttpPost("login")]
+        [HttpGet("login")]
         public IActionResult DangNhapTaiKhoan(string tenTaiKhoan, string matKhau)
         {
             var checkLogin = _taiKhoanKhachHangServices.KiemTraDangNhap(tenTaiKhoan, matKhau).Result;

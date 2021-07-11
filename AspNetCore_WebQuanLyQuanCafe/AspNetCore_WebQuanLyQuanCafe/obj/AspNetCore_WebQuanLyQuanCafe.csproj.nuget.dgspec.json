@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lap trinh di dong\\1_BaiTapLon\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj": {}
+    "C:\\Users\\TaiThanhTuan\\BaiTapLon_LTDD_ST2_ThayAi\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj": {}
   },
   "projects": {
-    "D:\\Lap trinh di dong\\1_BaiTapLon\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj": {
+    "C:\\Users\\TaiThanhTuan\\BaiTapLon_LTDD_ST2_ThayAi\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lap trinh di dong\\1_BaiTapLon\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj",
+        "projectUniqueName": "C:\\Users\\TaiThanhTuan\\BaiTapLon_LTDD_ST2_ThayAi\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj",
         "projectName": "AspNetCore_WebQuanLyQuanCafe",
-        "projectPath": "D:\\Lap trinh di dong\\1_BaiTapLon\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj",
+        "projectPath": "C:\\Users\\TaiThanhTuan\\BaiTapLon_LTDD_ST2_ThayAi\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe.csproj",
         "packagesPath": "C:\\Users\\TaiThanhTuan\\.nuget\\packages\\",
-        "outputPath": "D:\\Lap trinh di dong\\1_BaiTapLon\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\obj\\",
+        "outputPath": "C:\\Users\\TaiThanhTuan\\BaiTapLon_LTDD_ST2_ThayAi\\AspNetCore_WebQuanLyQuanCafe\\AspNetCore_WebQuanLyQuanCafe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TaiThanhTuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
