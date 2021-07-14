@@ -17,7 +17,8 @@ namespace AspNetCore_WebQuanLyQuanCafe.Controllers
 
         private readonly IKhachHangServices _khachHangServices;
 
-        public KhachHangController(IKhachHangServices khachHangServices) {
+        public KhachHangController(IKhachHangServices khachHangServices)
+        {
             _khachHangServices = khachHangServices;
         }
 
@@ -26,7 +27,7 @@ namespace AspNetCore_WebQuanLyQuanCafe.Controllers
         [Route("all")]
         public IActionResult GetAllKhachHang()
         {
-            var listTaiKhoanKH =  _khachHangServices.GetAllTaiKhoanKhachHang();
+            var listTaiKhoanKH = _khachHangServices.GetAllTaiKhoanKhachHang();
             return Ok(listTaiKhoanKH.Result);
         }
 

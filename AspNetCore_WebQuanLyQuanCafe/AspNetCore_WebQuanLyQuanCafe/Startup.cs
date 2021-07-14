@@ -44,6 +44,7 @@ namespace AspNetCore_WebQuanLyQuanCafe
             });
             services.AddTransient<IKhachHangServices, KhachHangServices>();
             services.AddTransient<ITaiKhoanKhachHangServices, TaiKhoanKhachHangServices>();
+            services.AddTransient<IThucDonServices, ThucDonServices>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
